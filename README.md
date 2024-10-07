@@ -15,7 +15,7 @@
 
 <br clear="both">
 
-<img align="right" height="94" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="139" src="https://avatars.githubusercontent.com/u/122896702?s=400&u=586d049544b1c9f1c840890fafe4f85dae8a7a2e&v=4"  />
 
 ###
 
