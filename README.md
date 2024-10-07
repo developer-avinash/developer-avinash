@@ -101,8 +101,6 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://github.com/Avinashkegyan/ProfileReadme/blob/main/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/avinashkegyan/avinashkegyan/output/snake.svg" alt="Snake animation" />
 
 ###
